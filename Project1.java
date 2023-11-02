@@ -7,6 +7,5 @@ class Project1
         
         System.out.println("The sum is " + (x+y));
         System.out.println("The difference is " + (x-y));
-
     }
 }
